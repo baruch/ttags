@@ -31,7 +31,7 @@ ttags $(git ls-files)
 
 #### Options
 
-- `-a` or `--apend` - Will keep your tag file in tact and only update the tags
+- `-a` or `--append` - Will keep your tag file in tact and only update the tags
   for the files passed.
 
 - `-r` or `--tag-relative` - Make paths outputed in the tags file be relative to the
